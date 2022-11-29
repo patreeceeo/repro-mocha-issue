@@ -12,6 +12,7 @@
     "ts-node": "^10.9.1"
   },
   "dependencies": {
+    "@xrengine/engine": "^1.0.0-rc6"
   },
   "license": "ISC",
   "author": ""
